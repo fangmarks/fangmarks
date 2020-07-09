@@ -13,7 +13,7 @@ _I currently work with [todmg](https://todmg.club "Thrive or Die Management Webs
 
 ### ________________________________________
 
-# 🔗 _How to reach me_
+### 🔗 _How to reach me_
 
 You can find all my Social Media on [werewolf.computer](https://werewolf.computer), my Email is at the Bottom of my Portfolio
 
