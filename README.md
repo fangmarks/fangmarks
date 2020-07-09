@@ -4,22 +4,21 @@
 
 _I currently work with [todmg](https://todmg.club "Thrive or Die Management Website") and [Tenkitsune](https://tenkitsune.com "Tenkitsune Website")_
 
-#
 
-## _My Portfolio is on [werewolf.design](https://werewolf.design "Hokkqido's Portfolio located at Werewolf dot Design")_
+### ________________________________________
 
-## _My Repos are hosted on [werewolf.codes/h](https://werewolf.codes/h "Hokkqido's Repos on werewolf dot codes")_
+### _My Portfolio is on [werewolf.design](https://werewolf.design "Hokkqido's Portfolio located at Werewolf dot Design")_
 
-#
+### _My Repos are hosted on [werewolf.codes/h](https://werewolf.codes/h "Hokkqido's Repos on werewolf dot codes")_
 
-## 🔗 _How to reach me_
+### ________________________________________
 
-### You can find all my Social Media on [werewolf.computer](https://werewolf.computer), my Email is at the Bottom of my Portfolio
+# 🔗 _How to reach me_
 
-#
+You can find all my Social Media on [werewolf.computer](https://werewolf.computer), my Email is at the Bottom of my Portfolio
+
+### ________________________________________
 
 ## _Like what I do? Try clicking one of the links below!_
 
-[Become a Patreon!](https://patreon.com/hokkqi)
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W1JF87)
+[Become a Patron](https://patreon.com/hokkqi) or [support me on Ko-Fi](https://ko-fi.com/W7W1JF87)
