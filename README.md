@@ -2,7 +2,7 @@
 
 ### My Pronouns are `He/Him` and `they/them`
 
-_I currently work with [todmg](https://todmg.club "Thrive or Die Management Website") and [Tenkitsune](https://tenkitsune.com "Tenkitsune Website")_
+_I currently work with [TODMG](https://github.com/todmg "Thrive or Die Management Website") and [Tenkitsune](https://tenkitsune.com "Tenkitsune Website")_
 
 
 ### ________________________________________
