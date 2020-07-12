@@ -22,3 +22,11 @@ You can find all my Social Media on [werewolf.computer](https://werewolf.compute
 ## _Like what I do? Try clicking one of the links below!_
 
 [Become a Patron](https://patreon.com/hokkqi) or [support me on Ko-Fi](https://ko-fi.com/W7W1JF87)
+
+### ________________________________________
+
+**I'm currently listening to**
+
+<a href="https://nowplaying.hokkqido.vercel.app/now-playing?open">
+    <img src="https://nowplaying.hokkqido.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
