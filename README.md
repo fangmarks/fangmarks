@@ -9,7 +9,7 @@ _I currently work with [TODMG](https://github.com/todmg "Thrive or Die Managemen
 
 ### _My Portfolio is on [werewolf.design](https://werewolf.design "Hokkqido's Portfolio located at Werewolf dot Design")_
 
-### _My Repos are hosted on [werewolf.codes/h](https://werewolf.codes/h "Hokkqido's Repos on werewolf dot codes")_
+### _My Repos are hosted on [werewolf.codes/h](https://werewolf.codes/h "Hokkqido's Repos on werewolf dot codes") and on [github.com/hokkqido](https://github.com/hokkqido)_ 
 
 ### ________________________________________
 
