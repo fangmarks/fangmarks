@@ -1,6 +1,6 @@
 ## Hi there, _I'm Hokkqido_. 👋
 
-### My Pronouns are `He/Him` and `they/them`
+### My Pronouns are `he/him` and `they/them`
 
 _I currently work with [TODMG](https://github.com/todmg "Thrive or Die Management Website") and [Tenkitsune](https://tenkitsune.com "Tenkitsune Website")_
 
