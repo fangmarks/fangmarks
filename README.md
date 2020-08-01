@@ -1,15 +1,18 @@
-## Hi there, _I'm Hokkqido_. 👋
+## Hi there, _I'm Hokkqi_. 👋
+
+i'm also known as [scyrescyre](https://twitter.com/scyrescyre)
+
 
 ### My Pronouns are `he/him` and `they/them`
 
-_I currently work with [TODMG](https://github.com/todmg "Thrive or Die Management Website") and [Tenkitsune](https://tenkitsune.com "Tenkitsune Website")_
+_I currently work with [TODMG](https://github.com/todmg "Thrive or Die Github") and [Tenkitsune](https://tenkitsune.com "Tenkitsune Website")_
 
 
 ### ________________________________________
 
 ### _My Portfolio is on [werewolf.design](https://werewolf.design "Hokkqido's Portfolio located at Werewolf dot Design")_
 
-### _My Repos are hosted on [werewolf.codes/h](https://werewolf.codes/h "Hokkqido's Repos on werewolf dot codes") and on [github.com/hokkqido](https://github.com/hokkqido)_ 
+### _My Repos are hosted on [werewolf.codes/h](https://werewolf.codes/h "Hokkqido's Repos on werewolf dot codes") and on [github.com/hokkqi](https://github.com/hokkqi)_ 
 
 ### ________________________________________
 
