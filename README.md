@@ -8,7 +8,7 @@ i'm also known as <a style="color:tomato;" href="https://twitter.com/scyrescyre"
 
 ## 💼 I currently work with:
 
-- <a style="color:tomato;" href="https://github.com/todmg">todmg</a>
+- <a style="color:tomato; !important" href="https://github.com/todmg">todmg</a>
 - <a style="color:tomato;" href="https://tenkitsune.com">Tenkitsune</a>
 - <a style="color:tomato;" href="https://scy.re">Scyre</a> - myself
 
