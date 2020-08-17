@@ -1,16 +1,16 @@
 ## Hi there, _I'm Hokkqi_. 👋
 
-i'm also known as <a style="color:tomato;" href="https://twitter.com/scyrescyre">scyrescyre</a>
+i'm also known as [scyrescyre](https://twitter.com/scyrescyre)
 
-### My Pronouns are <code  style="color:#E2B007;">he/him</code> and <code style="color:#E2B007;">they/them</code>
+### My Pronouns are <code>he/him</code> and <code>they/them</code>
 
 #
 
 ## 💼 I currently work with:
 
-- <a style="color:tomato; !important" href="https://github.com/todmg">todmg</a>
-- <a style="color:tomato;" href="https://tenkitsune.com">Tenkitsune</a>
-- <a style="color:tomato;" href="https://scy.re">Scyre</a> - myself
+- [Todmg]
+- [Tenkitsune]
+- [Scyre] - myself
 
 #
 
@@ -29,20 +29,20 @@ i'm also known as <a style="color:tomato;" href="https://twitter.com/scyrescyre"
 <br>
 <br>
 
-My Portfolio is on <a style="color:tomato;" href="https://werewolf.design">werewolf.design</a>
+My Portfolio is on [werewolf.design]
 
 #
 
 ## 💻 Find my Code on:
 
-- <a style="color:tomato;" href="https://github.com/hokkqi">github.com/hokkqi</a>
-- <a style="color:tomato;" href="https://werewolf.codes">werewolf.codes/h</a>
+- [github.com/hokkqi]
+- [werewolf.codes/h]
 
 #
 
 ### 🔗 _How to reach me_
 
-All my Social Media is on <a style="color:tomato;" href="https://lio.wtf">lio.wtf</a>
+All my Social Media is on [lio.wtf]
 
 #
 
@@ -67,6 +67,12 @@ You can [become a patron] or [support me on ko-fi]!
 
 <!-- You can also become a Github Sponsor! -->
 
+[werewolf.codes/h]: https://werewolf.codes/h
+[github.com/hokkqi]: https://github.com/hokkqi
+[todmg]: https://github.com/todmg
+[tenkitsune]: https://tenkitsune.com
+[scyre]: https://scy.re
+[lio.wtf]: https://lio.wtf
 [become a patron]: https://patreon.com/hokkqi
 [support me on ko-fi]: https://ko-fi.com/hokkqi
 [@scyrescyre]: https://twitter.com/scyrescyre
