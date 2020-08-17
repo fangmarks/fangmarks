@@ -10,9 +10,9 @@ _I currently work with [TODMG](https://github.com/todmg "Thrive or Die Github") 
 
 ### ________________________________________
 
-### _My Portfolio is on [werewolf.design](https://werewolf.design "Hokkqido's Portfolio located at Werewolf dot Design")_
+### _My Portfolio is on [werewolf.design](https://werewolf.design "Hokkqi's Portfolio located at Werewolf dot Design")_
 
-### _My Repos are hosted on [werewolf.codes/h](https://werewolf.codes/h "Hokkqido's Repos on werewolf dot codes") and on [github.com/hokkqi](https://github.com/hokkqi)_ 
+### _My Repos are hosted on [werewolf.codes/h](https://werewolf.codes/h "Hokkqi's Repos on werewolf dot codes") and on [github.com/hokkqi](https://github.com/hokkqi)_ 
 
 ### ________________________________________
 
@@ -25,11 +25,3 @@ You can find all my Social Media on [werewolf.computer](https://werewolf.compute
 ## _Like what I do? Try clicking one of the links below!_
 
 [Become a Patron](https://patreon.com/hokkqi) or [support me on Ko-Fi](https://ko-fi.com/W7W1JF87)
-
-### ________________________________________
-
-**I'm currently listening to**
-
-<a href="https://nowplaying.hokkqido.vercel.app/now-playing?open">
-    <img src="https://nowplaying.hokkqido.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a>
