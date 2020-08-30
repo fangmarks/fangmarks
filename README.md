@@ -2,7 +2,7 @@
 
 ## Hi there, _I'm Hokkqi_. 👋
 
-i'm also known as [scyrescyre](https://twitter.com/scyrescyre)
+i'm also known as [scyre](https://github.com/scyre)
 
 ### My Pronouns are <code>he/him</code> and <code>they/them</code>
 
@@ -61,7 +61,7 @@ All my Social Media is on [lio.wtf]
 
 ## 📩 Contact me
 
-You can contact me on Twitter [@scyrescyre] or send me an Email hokkqi@pogge.rs if you're interested in working together
+You can contact me on Twitter [@scy_re] or send me an Email lio@werewolf.design if you're interested in working together
 
 ## 💸 Like what I'm doing?
 
@@ -77,5 +77,5 @@ You can [become a patron] or [support me on ko-fi]!
 [lio.wtf]: https://lio.wtf
 [become a patron]: https://patreon.com/hokkqi
 [support me on ko-fi]: https://ko-fi.com/hokkqi
-[@scyrescyre]: https://twitter.com/scyrescyre
+[@scy_re]: https://twitter.com/scy_re
 [werewolf.design]: https://werewolf.design
