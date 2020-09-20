@@ -61,7 +61,7 @@ All my Social Media is on [lio.wtf]
 
 ## 📩 Contact me
 
-You can contact me on Twitter [@scy_re] or send me an Email lio@werewolf.design if you're interested in working together
+You can contact me on Twitter [@LioScyre] or send me an Email lio@werewolf.design if you're interested in working together
 
 ## 💸 Like what I'm doing?
 
@@ -77,5 +77,5 @@ You can [become a patron] or [support me on ko-fi]!
 [lio.wtf]: https://lio.wtf
 [become a patron]: https://patreon.com/hokkqi
 [support me on ko-fi]: https://ko-fi.com/hokkqi
-[@scy_re]: https://twitter.com/scy_re
+[@LioScyre]: https://twitter.com/LioScyre
 [werewolf.design]: https://werewolf.design
