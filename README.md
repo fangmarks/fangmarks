@@ -44,7 +44,7 @@ My Portfolio is on [werewolf.design]
 
 ### 🔗 _How to reach me_
 
-All my Social Media is on [lio.wtf]
+All my Social Media is on [himbo.cat]
 
 #
 
@@ -74,7 +74,7 @@ You can [become a patron] or [support me on ko-fi]!
 [todmg]: https://github.com/todmg
 [tenkitsune]: https://tenkitsune.com
 [scyre]: https://scy.re
-[lio.wtf]: https://lio.wtf
+[himbo.cat]: https://himbo.cat
 [become a patron]: https://patreon.com/hokkqi
 [support me on ko-fi]: https://ko-fi.com/hokkqi
 [@LioScyre]: https://twitter.com/LioScyre
