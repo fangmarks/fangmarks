@@ -65,10 +65,12 @@ You can contact me on Twitter [@LioScyre] or send me an Email lio@werewolf.desig
 
 ## 💸 Like what I'm doing?
 
-You can [become a patron] or [support me on ko-fi]!
+You can [become a patron], [support me on ko-fi] or [become a Github Sponsor]!
 
-<!-- You can also become a Github Sponsor! -->
 
+<img src="https://komarev.com/ghpvc/?username=vladfrangu" alt="" />
+
+<!---- ---->
 [werewolf.codes/h]: https://werewolf.codes/h
 [github.com/hokkqi]: https://github.com/hokkqi
 [todmg]: https://github.com/todmg
@@ -76,6 +78,7 @@ You can [become a patron] or [support me on ko-fi]!
 [scyre]: https://scy.re
 [himbo.cat]: https://himbo.cat
 [become a patron]: https://patreon.com/hokkqi
+[become a Github Sponsor]: https://github.com/sponsors/hokkqi
 [support me on ko-fi]: https://ko-fi.com/hokkqi
 [@LioScyre]: https://twitter.com/LioScyre
 [werewolf.design]: https://werewolf.design
