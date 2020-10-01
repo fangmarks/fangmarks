@@ -4,7 +4,7 @@
 
 i'm also known as [scyre](https://github.com/scyre)
 
-### My Pronouns are <code>he/him</code> and <code>they/them</code>
+### My Pronouns are <code>they/them</code>
 
 #
 
