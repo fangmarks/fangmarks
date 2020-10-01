@@ -68,7 +68,7 @@ You can contact me on Twitter [@LioScyre] or send me an Email lio@werewolf.desig
 You can [become a patron], [support me on ko-fi] or [become a Github Sponsor]!
 
 
-<img src="https://komarev.com/ghpvc/?username=vladfrangu" alt="" />
+<img src="https://komarev.com/ghpvc/?username=hokkqi" alt="" />
 
 <!---- ---->
 [werewolf.codes/h]: https://werewolf.codes/h
