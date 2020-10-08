@@ -61,7 +61,7 @@ All my Social Media is on [himbo.cat]
 
 ## 📩 Contact me
 
-You can contact me on Twitter [@LioScyre] or send me an Email lio@werewolf.design if you're interested in working together
+You can contact me on Twitter [@himbo_cat] or send me an Email lio@werewolf.design if you're interested in working together
 
 ## 💸 Like what I'm doing?
 
@@ -80,5 +80,5 @@ You can [become a patron], [support me on ko-fi] or [become a Github Sponsor]!
 [become a patron]: https://patreon.com/hokkqi
 [become a Github Sponsor]: https://github.com/sponsors/hokkqi
 [support me on ko-fi]: https://ko-fi.com/hokkqi
-[@LioScyre]: https://twitter.com/LioScyre
+[@himbo_cat]: https://twitter.com/himbo_cat
 [werewolf.design]: https://werewolf.design
