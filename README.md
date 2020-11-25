@@ -52,8 +52,8 @@ All my Social Media is on [himbo.cat]
 
 <summary>⚡ Github Stats</summary>
 
-[![Top Langs](https://github-readme-stats.hokkqido.vercel.app/api/top-langs/?username=hokkqi&layout=compact)]()
-[![Stats](https://github-readme-stats.hokkqido.vercel.app/api?username=hokkqi&show_icons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hokkqi&layout=compact)]()
+[![Stats](https://github-readme-stats.vercel.app/api?username=hokkqi&show_icons=true)]()
 
 </details>
 
