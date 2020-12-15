@@ -61,7 +61,7 @@ All my Social Media is on [himbo.cat]
 
 ## 📩 Contact me
 
-You can contact me on Twitter [@himbo_cat] or send me an Email lio@werewolf.design if you're interested in working together
+send me an Email lio@werewolf.design if you're interested in working together
 
 ## 💸 Like what I'm doing?
 
