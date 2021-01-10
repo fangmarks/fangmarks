@@ -1,4 +1,4 @@
-<img align="right" width="140px" src="https://pogge.rs/i/go1.jpg">
+<img align="right" width="140px" src="https://kji.tf/avatar">
 
 ## Hi there, _I'm Lio_. 👋
 
@@ -10,7 +10,8 @@ i'm also known as [scyre](https://github.com/scyre)
 
 ## 💼 I currently work with:
 
-- [Todmg]
+- [THRIVE OR DIE Management]
+- [Entail]
 - [Tenkitsune]
 - [Scyre] - myself
 
@@ -73,7 +74,8 @@ You can [become a patron], [support me on ko-fi] or [become a Github Sponsor]!
 <!---- ---->
 [werewolf.codes/h]: https://werewolf.codes/h
 [github.com/hokkqi]: https://github.com/hokkqi
-[todmg]: https://github.com/todmg
+[THRIVE OR DIE Management]: https://github.com/todmg
+[Entail]: https://twitter.com/entailapps
 [tenkitsune]: https://tenkitsune.com
 [scyre]: https://scy.re
 [himbo.cat]: https://himbo.cat
