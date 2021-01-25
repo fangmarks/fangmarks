@@ -68,10 +68,7 @@ send me an Email lio@werewolf.design if you're interested in working together
 
 You can [become a patron], [support me on ko-fi] or [become a Github Sponsor]!
 
-
-<img src="https://komarev.com/ghpvc/?username=hokkqi" alt="" />
-
-<!---- ---->
+<!---- quick links ---->
 [werewolf.codes/h]: https://werewolf.codes/h
 [github.com/hokkqi]: https://github.com/hokkqi
 [THRIVE OR DIE Management]: https://github.com/todmg
