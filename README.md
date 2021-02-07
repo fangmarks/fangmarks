@@ -2,8 +2,6 @@
 
 ## Hi there, _I'm Lio_. 👋
 
-i'm also known as [scyre](https://github.com/scyre)
-
 ### My Pronouns are <code>they/them</code>
 
 #
@@ -12,8 +10,6 @@ i'm also known as [scyre](https://github.com/scyre)
 
 - [THRIVE OR DIE Management]
 - [Entail]
-- [Tenkitsune]
-- [Scyre] - myself
 
 #
 
@@ -45,7 +41,7 @@ My Portfolio is on [werewolf.design]
 
 ### 🔗 _How to reach me_
 
-All my Social Media is on [himbo.cat]
+All my Social Media is on [werewolf.computer]
 
 #
 
@@ -71,13 +67,13 @@ You can [become a patron], [support me on ko-fi] or [become a Github Sponsor]!
 <!---- quick links ---->
 [werewolf.codes/h]: https://werewolf.codes/h
 [github.com/hokkqi]: https://github.com/hokkqi
-[THRIVE OR DIE Management]: https://github.com/todmg
-[Entail]: https://twitter.com/entailapps
-[tenkitsune]: https://tenkitsune.com
+[THRIVE OR DIE Management]: https://todmg.club
+[Entail]: https://entail.app
+[tenkitsune]: https://twitter.com/tenkitsunemusic
 [scyre]: https://scy.re
-[himbo.cat]: https://himbo.cat
+[werewolf.computer]: https://werewolf.computer
 [become a patron]: https://patreon.com/hokkqi
 [become a Github Sponsor]: https://github.com/sponsors/hokkqi
 [support me on ko-fi]: https://ko-fi.com/hokkqi
-[@himbo_cat]: https://twitter.com/himbo_cat
+[@hokkqi]: https://twitter.com/hokkqi
 [werewolf.design]: https://werewolf.design
