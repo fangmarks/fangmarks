@@ -1,4 +1,4 @@
-<img align="right" width="140px" src="https://kji.tf/avatar">
+<img align="right" width="140px" src="https://common.himbo.cat/avatars/lio/shlimaz.png">
 
 ## Hi there, _I'm Lio_. 👋
 
