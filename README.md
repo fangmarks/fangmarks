@@ -8,9 +8,10 @@
 
 ## 💼 I currently work with:
 
-- [THRIVE OR DIE Management]
+- [THRIVE OR DIE]
 - [Entail]
-
+### Previously
+- [Endless](https://endlessgroup.org/)
 #
 
 ## ⚙ Languages and Tools
@@ -34,31 +35,25 @@ My Portfolio is on [werewolf.design]
 
 ## 💻 Find my Code on:
 
-- [github.com/hokkqi]
+- [github.com/himbolion]
 - [werewolf.codes/h]
 
+
+<!---- 
 #
 
-### 🔗 _How to reach me_
+ ## ⚡ Most used Langs
 
-All my Social Media is on [werewolf.computer]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himbolion&layout=compact)]()
+ [![Stats](https://github-readme-stats.vercel.app/api?username=himbolion&show_icons=true)]() 
 
-#
-
-<details>
-
-<summary>⚡ Github Stats</summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hokkqi&layout=compact)]()
-[![Stats](https://github-readme-stats.vercel.app/api?username=hokkqi&show_icons=true)]()
-
-</details>
+---->
 
 #
 
 ## 📩 Contact me
 
-send me an Email lio@werewolf.design if you're interested in working together
+send an email to work@werewolf.design if you're interested in working together
 
 ## 💸 Like what I'm doing?
 
@@ -66,14 +61,14 @@ You can [become a patron], [support me on ko-fi] or [become a Github Sponsor]!
 
 <!---- quick links ---->
 [werewolf.codes/h]: https://werewolf.codes/h
-[github.com/hokkqi]: https://github.com/hokkqi
-[THRIVE OR DIE Management]: https://todmg.club
+[github.com/himbolion]: https://github.com/himbolion
+[THRIVE OR DIE]: https://todmg.club
 [Entail]: https://entail.app
 [tenkitsune]: https://twitter.com/tenkitsunemusic
 [scyre]: https://scy.re
 [werewolf.computer]: https://werewolf.computer
 [become a patron]: https://patreon.com/hokkqi
-[become a Github Sponsor]: https://github.com/sponsors/hokkqi
+[become a Github Sponsor]: https://github.com/sponsors/himbolion
 [support me on ko-fi]: https://ko-fi.com/hokkqi
 [@hokkqi]: https://twitter.com/hokkqi
 [werewolf.design]: https://werewolf.design
