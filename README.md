@@ -16,8 +16,17 @@ You can find my Portfolio @ [teme.re]
 
 <details>
 <summary>Click here to see my most used Languages</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himbolion&layout=compact)]()
-[![Stats](https://github-readme-stats.vercel.app/api?username=himbolion&show_icons=true)]()
+<table>
+  <tr>
+      <td style="padding: 5px; width=50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himbolion&layout=compact&hide_title=true&count_private=true&theme=buefy"/>
+    </td>
+    <td style="padding: 5px; width=50%">
+        <img src="https://github-readme-stats.vercel.app/api/?username=himbolion&show_icons=true&hide_title=true&count_private=false&theme=buefy"/>
+    </td>
+
+  </tr>
+</table>
 </details>
 
 #
