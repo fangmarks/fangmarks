@@ -4,10 +4,11 @@
 
 ### My Pronouns are <code>they/them</code>
 
-I'm a 19 y/o Freelance Web Developer and UI/UX Designer from Germany.
+I'm a 20 y/o Freelance Web Developer and UI/UX Designer from Germany.
 
 ### I've worked with
 
+- [SoFurry]
 - [Arte et Labore]
 - [THRIVE OR DIE]
 - [Entail]
@@ -47,3 +48,4 @@ If you like what I'm making, you can find all ways to support me on [lio.cash]
 [arte et labore]: https://artelabore.online
 [endless]: https://theendlessweb.com
 [lio.cash]: https://lio.cash
+[SoFurry]: https://sofurry.com
