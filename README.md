@@ -49,3 +49,4 @@ If you like what I'm making, you can find all ways to support me on [lio.cash]
 [endless]: https://theendlessweb.com
 [lio.cash]: https://lio.cash
 [SoFurry]: https://sofurry.com
+[ipv4turfwar]:https://api.ipv4.party/claim?name=lio.cat
