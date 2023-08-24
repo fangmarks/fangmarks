@@ -4,26 +4,27 @@
 
 ### My Pronouns are <code>they/them</code>
 
-I'm a 20 y/o Freelance Web Developer and UI/UX Designer from Germany.
+I'm a 21 y/o Freelance Web Developer and UI/UX Designer from Germany.
 
 ### I've worked with
 
-- [SoFurry]
+- [Auttaja]
 - [Arte et Labore]
 - [THRIVE OR DIE]
 - [Entail]
+- [SoFurry]
 
-You can find my Portfolio @ [teme.re]
+You can find my Portfolio @ [datashard.work]
 
 <details>
 <summary>Click here to see my most used Languages</summary>
 <table>
   <tr>
       <td style="padding: 5px; width=50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himbolion&layout=compact&hide_title=true&count_private=true&theme=buefy"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangmarks&layout=compact&hide_title=true&count_private=true&theme=buefy"/>
     </td>
     <td style="padding: 5px; width=50%">
-        <img src="https://github-readme-stats.vercel.app/api/?username=himbolion&show_icons=true&hide_title=true&count_private=false&theme=buefy"/>
+        <img src="https://github-readme-stats.vercel.app/api/?username=fangmarks&show_icons=true&hide_title=true&count_private=false&theme=buefy"/>
     </td>
 
   </tr>
@@ -34,19 +35,13 @@ You can find my Portfolio @ [teme.re]
 
 ## 📩 Want to work with me?
 
-send an email to [work@teme.re](mailto:work@teme.re?subject=%5BGithub%5D%20I'm%20interested%20in%20working%20with%20you!)!
-
-## 💸 Like what I'm doing?
-
-If you like what I'm making, you can find all ways to support me on [lio.cash]
+send an email to [work@datashard.work](mailto:work@teme.re?subject=%5BGithub%5D%20I'm%20interested%20in%20working%20with%20you!)!
 
 <!---- quick links ---->
-
-[thrive or die]: https://todmg.club
+[Auttaja]: https://auttaja.io
+[thrive or die]: https://thriveordie.life/
 [entail]: https://entail.app
-[teme.re]: https://teme.re/
+[datashard.work]: https://datashard.work/
 [arte et labore]: https://artelabore.online
 [endless]: https://theendlessweb.com
-[lio.cash]: https://lio.cash
 [SoFurry]: https://sofurry.com
-[ipv4turfwar]:https://api.ipv4.party/claim?name=lio.cat
