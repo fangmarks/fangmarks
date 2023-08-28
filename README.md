@@ -35,7 +35,7 @@ You can find my Portfolio @ [datashard.work]
 
 ## 📩 Want to work with me?
 
-send an email to [work@datashard.work](mailto:work@teme.re?subject=%5BGithub%5D%20I'm%20interested%20in%20working%20with%20you!)!
+send an email to [data@shard.work](mailto:data@shard.wtf?subject=%5BGithub%5D%20I'm%20interested%20in%20working%20with%20you!)!
 
 <!---- quick links ---->
 [Auttaja]: https://auttaja.io
