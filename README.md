@@ -1,17 +1,16 @@
-<img align="right" width="140px" src="https://common.himbo.cat/avatars/caecus/lipbite.png">
+<img align="right" width="140px" src="https://common.himbo.cat/avatars/lio/blep.png">
 
 ## Hi there, _I'm Lio_. 👋
 
 ### My Pronouns are <code>they/them</code>
 
-I'm a 21 y/o Freelance Web Developer and UI/UX Designer from Germany.
+I'm a 22 y/o Freelance Web Developer and UI/UX Designer from Germany.
 
 ### I've worked with
 
 - [Auttaja]
 - [Arte et Labore]
 - [THRIVE OR DIE]
-- [Entail]
 - [SoFurry]
 
 You can find my Portfolio @ [datashard.work]
@@ -35,7 +34,7 @@ You can find my Portfolio @ [datashard.work]
 
 ## 📩 Want to work with me?
 
-send an email to [data@shard.work](mailto:data@shard.wtf?subject=%5BGithub%5D%20I'm%20interested%20in%20working%20with%20you!)!
+send an email to [data@shard.wtf](mailto:data@shard.wtf?subject=%5BGithub%5D%20I'm%20interested%20in%20working%20with%20you!)!
 
 <!---- quick links ---->
 [Auttaja]: https://auttaja.io
