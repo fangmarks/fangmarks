@@ -2,45 +2,38 @@
 
 ## Hi there, _I'm Lio_. 👋
 
-### My Pronouns are <code>they/them</code>
+23 y/o Freelance Web Developer and UI/UX Designer from Germany.
 
-I'm a 22 y/o Freelance Web Developer and UI/UX Designer from Germany.
+---
 
-### I've worked with
+### Currently
+- app dev apprentice @ [proalpha]
+- product lead @ [pyro inc.]
+- text writer @ [eurofurence]
+- ui designer @ [sofurry]
+<br/>
 
-- [Auttaja]
-- [Arte et Labore]
+### Previously worked on/with
+
+- [modrinth] servers
+- [auttaja]
+- [arte et labore]
 - [THRIVE OR DIE]
-- [SoFurry]
 
-You can find my Portfolio @ [datashard.work]
+You can find my full Portfolio @ [datashard.work]
 
-<details>
-<summary>Click here to see my most used Languages</summary>
-<table>
-  <tr>
-      <td style="padding: 5px; width=50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangmarks&layout=compact&hide_title=true&count_private=true&theme=buefy"/>
-    </td>
-    <td style="padding: 5px; width=50%">
-        <img src="https://github-readme-stats.vercel.app/api/?username=fangmarks&show_icons=true&hide_title=true&count_private=false&theme=buefy"/>
-    </td>
-
-  </tr>
-</table>
-</details>
-
-#
 
 ## 📩 Want to work with me?
 
 send an email to [data@shard.wtf](mailto:data@shard.wtf?subject=%5BGithub%5D%20I'm%20interested%20in%20working%20with%20you!)!
 
 <!---- quick links ---->
-[Auttaja]: https://auttaja.io
+[proalpha]:https://proalpha.com
+[eurofurence]:https://eurofurence.org
+[auttaja]: https://auttaja.io
 [thrive or die]: https://thriveordie.life/
-[entail]: https://entail.app
+[pyro inc.]: https://pyro.host
+[modrinth]: https://modrinth.gg
 [datashard.work]: https://datashard.work/
 [arte et labore]: https://artelabore.online
-[endless]: https://theendlessweb.com
-[SoFurry]: https://sofurry.com
+[sofurry]: https://sofurry.com
