@@ -7,7 +7,6 @@
 i go by `they/them` <3
 
 ---
-<br>
 
 ### Currently
 - app dev apprentice @ [proalpha]
