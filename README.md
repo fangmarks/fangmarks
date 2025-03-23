@@ -5,13 +5,13 @@
 23 y/o Freelance Web Developer and UI/UX Designer from Germany.
 
 ---
+<br>
 
 ### Currently
 - app dev apprentice @ [proalpha]
 - product lead @ [pyro inc.]
 - text writer @ [eurofurence]
 - ui designer @ [sofurry]
-<br/>
 
 ### Previously worked on/with
 
