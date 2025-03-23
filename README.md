@@ -4,6 +4,8 @@
 
 23 y/o Freelance Web Developer and UI/UX Designer from Germany.
 
+i go by `they/them` <3
+
 ---
 <br>
 
