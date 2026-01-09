@@ -9,7 +9,6 @@ i go by `they/them` <3
 ---
 
 ### Currently
-- app dev apprentice @ [proalpha]
 - product lead @ [pyro inc.]
 - text writer @ [eurofurence]
 - ui designer @ [sofurry]
