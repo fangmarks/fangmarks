@@ -1,6 +1,6 @@
 <img align="left" width="140px" src="https://common.himbo.cat/avatars/lio/chuchu.png">
 
-## Hi there, _I'm Lio_. 👋
+### Hi there, _I'm Lio_. 👋
 
 23 y/o Freelance Web Developer and UI/UX Designer from Germany.
 
