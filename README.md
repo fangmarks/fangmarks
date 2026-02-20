@@ -1,4 +1,4 @@
-<img align="left" width="140px" src="https://common.himbo.cat/avatars/lio/blep.png">
+<img align="left" width="140px" src="https://common.himbo.cat/avatars/lio/chuchu.png">
 
 ## Hi there, _I'm Lio_. 👋
 
