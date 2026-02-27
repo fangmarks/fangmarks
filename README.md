@@ -2,7 +2,7 @@
 
 ### Hi there, _I'm Lio_. 👋
 
-23 y/o Freelance Web Developer and UI/UX Designer from Germany.
+24 y.o Freelance Web Developer and UI/UX Designer from Germany.
 
 i go by `they/them` <3
 
